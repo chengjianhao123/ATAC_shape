@@ -1,0 +1,1 @@
+{"queries":[{"feature":"gene","distance":"2500","feature.anchor":"start","show.attributes":"gene_id"},{"feature":"gene","distance":"2500","feature.anchor":"end","direction":"upstream","show.attributes":"gene_id"}],"gtf":"gencode.mouse.v1.annotation.gtf","bed":"GSM2927569.bedgraph"}
