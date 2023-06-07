@@ -5,4 +5,4 @@ file downloaded from the GENECODE project.the result were listed in csv file.
 2.The clustering procedure.This part contains how to load the normalized bigwig file to R,then passing the each gene's read to python 
 to do the dimension reduction and clustering procedure.we do not upload normalized bigwig file due to file size limitation.
 3 combining clustering to other gene charcteristic (Total count and gene type and Peak association and RNA analysis).this task also need
-the peak annotation result and rna-seq result.
+the peak annotation result and rna-seq result,which were also omit due to file size limitation.
